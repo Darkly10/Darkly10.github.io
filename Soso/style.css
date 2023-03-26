@@ -1,0 +1,26 @@
+.card {
+	width: 400px;
+	background-color: #f700c2;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #CCCCCC;
+	text-align: center;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 36px;
+	color: #250fee;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	margin: 20px 0;
+}
+
+p {
+	font-size: 24px;
+	color: #250fee;
+	line-height: 1.5;
+}
